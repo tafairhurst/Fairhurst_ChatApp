@@ -1,3 +1,8 @@
+// Todd Fairhurst
+// 11/29/23
+// ITN 263-401 Mobile App Development
+// Code Adapted from https://jscrambler.com/blog/build-a-chat-app-with-firebase-and-react-native
+
 import React, { useState, createContext, useContext, useEffect } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
